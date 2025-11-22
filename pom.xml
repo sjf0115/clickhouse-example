@@ -30,6 +30,12 @@
                 <version>${clickhouse.version}</version>
             </dependency>
 
+            <dependency>
+                <groupId>com.clickhouse</groupId>
+                <artifactId>clickhouse-client</artifactId>
+                <version>${clickhouse.version}</version>
+            </dependency>
+
             <!-- HikariCP连接池 -->
             <dependency>
                 <groupId>com.zaxxer</groupId>

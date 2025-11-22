@@ -24,6 +24,11 @@
             <artifactId>clickhouse-jdbc</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.clickhouse</groupId>
+            <artifactId>clickhouse-client</artifactId>
+        </dependency>
+
         <!-- HikariCP连接池 -->
         <dependency>
             <groupId>com.zaxxer</groupId>
